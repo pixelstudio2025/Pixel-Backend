@@ -28,7 +28,7 @@ Contact:
 Discord: astronaut_fn
 
 Contributor(s):
-Pixel
+Astronaut
 📜 License & Usage
 You are free to use, modify, and improve this backend for your own projects. While some might consider it “skidding,” I don’t make sure to give proper credit and contribute back if possible!
 
